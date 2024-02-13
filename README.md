@@ -7,7 +7,7 @@ This is a list of popular addresses and assets. We are open to pull request but 
 Short list. Full in [accounts.json](accounts.json)
 
 Name           | Address
-[ TNJKT Foundation ]https://tonviewer.com/EQBq61EWZGb8S1iR_JOxH77OyCHXYSN5Gm4_WkS6DMWOecNJ/jetton/EQDfy6ysMjjJpSQ64w5tGtEY-byelbfjh-VbmpVFMlwzCTbp [ TNJKT Foundation ]|UQA2J43rq0AdVxzHG8qt1t4pv7C-6iRmZ1sG2uIRdPrdo9JM-----------
+[ TNJKT Foundation ]https://tonviewer.com/EQBq61EWZGb8S1iR_JOxH77OyCHXYSN5Gm4_WkS6DMWOecNJ/jetton/EQDfy6ysMjjJpSQ64w5tGtEY-byelbfjh-VbmpVFMlwzCTbp|UQA2J43rq0AdVxzHG8qt1t4pv7C-6iRmZ1sG2uIRdPrdo9JM [ TNJKT Foundation ]
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | EQDCH6vT0MvVp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
 [TON Foundation](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
 [TON Ecosystem Reserve](https://tonviewer.com/0:21137b0bc47669b3267f1de70cbb0cef5c728b8d8c7890451e8613b2d8998270) | EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT
